@@ -3,4 +3,4 @@
  
  Visit The Website for the project ->
  
- https://code08-ind.github.io/Typing_Speed_Tester/index.html
+https://code08-ind.github.io/Typing_Speed_Tester/
